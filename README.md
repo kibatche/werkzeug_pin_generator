@@ -22,6 +22,6 @@ You need to leak some infos from the target machine. Usually it is done via LFI 
 - the flask path of app.py of the flask application : you can dump it when you generate errors. It is usually somethin like /usr/bin/lib/python3.10/site-packages/flask/app.py
 - the device's mac address used : Leak /proc/net/arp then, leak /sys/class/net/<device>/address. Enter the mac address.
 
-Enter all these informations inside the .env file and the script will generate some pins you'll can enter if werkzeug debug is enabled on the the website.
+Enter all these informations inside the .env file and the script will generate some pins you'll can provide if werkzeug debug is enabled on the the website.
 
-No test has been done on this script, ie, use it for hack the box or try hack me or whatever.
+No test has been done on this script, use it for hack the box or try hack me or whatever.
