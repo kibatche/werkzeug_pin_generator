@@ -1,8 +1,8 @@
 # werkzeug pin generator
 
-A werkzeug pin generator for python 3.10 (not tested on ther versions) and lazy people like me.
+A werkzeug pin generator for python 3.10 (not tested on other versions) and for lazy people like me.
 
-All you need to do is to provide the information explained in section ### What do you need.
+All you need to do is to provide the informations evoqued in section ### What do you need.
 
 ### Usage
 
